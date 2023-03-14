@@ -7,6 +7,8 @@ A sunburst chart without any hierarchical data (one level of categories), looks 
 
 ## Installation & Use
 
+[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-sunburst/releases)
+
 The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-sunburst/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
